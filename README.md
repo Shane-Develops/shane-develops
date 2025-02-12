@@ -12,9 +12,8 @@
 ### 🚀 About Me  
 - 🔭 I’m currently working on **[LunarAPI](https://lunarapi.org)**  
 - 🌱 Learning **Java, Unity & Rust**  
-- 🤝 Looking for collaboration on **[MR(API)](https://mrapi.org)**  
+- 🤝 Looking for collaboration on **[LunarAPI](https://lunarapi.org)**  
 - 💬 Ask me about **Frontend Development**  
-- 👨‍💻 Check out my work: **[shanewolford.com](https://shanewolford.com)**  
 - 📫 Reach me at **me@shanewolford.com**  
 
 ---
