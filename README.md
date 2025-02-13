@@ -27,8 +27,7 @@
   <img src="https://img.shields.io/badge/Frontend-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
@@ -39,7 +38,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shane-develops&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
 </p>
-
 
 ---
 
